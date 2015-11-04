@@ -6,10 +6,14 @@ DevOps blogs, sites, podcasts, communities, misc.
 * [Agile Web Development & Operations] (http://www.agileweboperations.com/)
 * [Build Doctor] (http://build-doctor.com/)
 * [Chef] (https://www.chef.io/blog/)
+* [DigitalOcean] (https://www.digitalocean.com/company/blog/)
 * [Etsy] (https://codeascraft.com/)
+* [Facebook] (https://code.facebook.com/)
+* [Github] (https://github.com/blog)
 * [The Lone Sysadmin] (https://lonesysadmin.net/)
 * [Netflix] (http://techblog.netflix.com/)
 * [Puppetlabs] (https://puppetlabs.com/blog)
+* [Twitter] (https://blog.twitter.com/engineering)
 
 ## Sites
 * [Devops.com] (http://devops.com/)
