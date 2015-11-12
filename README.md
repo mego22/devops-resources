@@ -27,7 +27,7 @@ DevOps blogs, sites, podcasts, communities, misc.
 * [The Ship Show] (http://theshipshow.com/)
 
 ## Communities
-* [DevOps Slack chat] (https://devopschat.slack.com)
+* [DevOps Slack chat] (https://devopschat.co/)
 * [Devops subReddit](https://www.reddit.com/r/devops/)
 
 ## Misc
