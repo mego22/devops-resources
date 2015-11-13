@@ -19,6 +19,7 @@ DevOps blogs, sites, podcasts, communities, misc.
 * [Devops.com] (http://devops.com/)
 * [Devopsdays.org] (http://www.devopsdays.org/)
 * [DevOps zone] (https://dzone.com/devops-tutorials-tools-news)
+* [New Stack Makers] (http://thenewstack.io/)
 
 ## Podcasts
 * [Arrested DevOps] (http://www.arresteddevops.com/)
