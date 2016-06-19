@@ -36,5 +36,5 @@ DevOps blogs, sites, podcasts, communities, misc.
 * [DevOps Borat] (https://twitter.com/DEVOPS_BORAT)
 
 ## Ansible
-http://hakunin.com/six-ansible-practices#write-your-vagrantfilek
-http://leucos.github.io/ansible-files-layout/
+* http://hakunin.com/six-ansible-practices#write-your-vagrantfilek
+* http://leucos.github.io/ansible-files-layout/
